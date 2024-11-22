@@ -17,4 +17,4 @@ To develop an AI-powered platform that streamlines the Formula 1 fan experience 
 
 ### **Project Resources:**
 ---
-[![Codelabs](https://img.shields.io/badge/Documentation-blue)](https://codelabs-preview.appspot.com/?file_id=18Dh24v--CAF-GTskYUyELuM3h3dAlbzd2TrMmoOw1yg#0) 
+[![Codelabs](https://img.shields.io/badge/Codelabs-blue)](https://codelabs-preview.appspot.com/?file_id=18Dh24v--CAF-GTskYUyELuM3h3dAlbzd2TrMmoOw1yg#0) 
