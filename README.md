@@ -18,4 +18,4 @@ To develop an AI-powered platform that streamlines the Formula 1 fan experience 
 ### **Project Resources:**
 ---
 a. **Diagrams**: [Architecture Diagram](https://github.com/BigDataIA-Fall2024-TeamA6/Assignment_4/tree/main/architecture_diagram)  
-b. **Project Proposal CodeLabs**: [Codelabs Preview](https://codelabs-preview.appspot.com/?file_id=18Dh24v--CAF-GTskYUyELuM3h3dAlbzd2TrMmoOw1yg/edit?usp=sharing#2)  
+b. **Project Proposal CodeLabs**: [![Codelabs](https://img.shields.io/badge/Documentation-blue)](https://codelabs-preview.appspot.com/?file_id=18Dh24v--CAF-GTskYUyELuM3h3dAlbzd2TrMmoOw1yg#0) 
