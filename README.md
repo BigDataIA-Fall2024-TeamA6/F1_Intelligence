@@ -24,5 +24,6 @@ a. **Project Proposal CodeLabs**: [Codelabs Preview](https://codelabs-preview.ap
 ---
 
 New Architecture Diagram:
-![F1_Architecture_Diagram](https://github.com/user-attachments/assets/12a2d064-6634-4a5a-8c0f-6092d40d2cbd)
+![F1_Architecture_Diagram](https://github.com/user-attachments/assets/c0fdedcc-5723-4c3b-b5e1-7f2c5021be45)
+
 
