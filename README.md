@@ -18,3 +18,11 @@ To develop an AI-powered platform that streamlines the Formula 1 fan experience 
 ### **Project Resources:**
 ---
 a. **Project Proposal CodeLabs**: [Codelabs Preview](https://codelabs-preview.appspot.com/?file_id=18Dh24v--CAF-GTskYUyELuM3h3dAlbzd2TrMmoOw1yg/edit?usp=sharing#2)  
+
+
+### **Architecture:**
+---
+
+New Architecture Diagram:
+![F1_Architecture_Diagram](https://github.com/user-attachments/assets/12a2d064-6634-4a5a-8c0f-6092d40d2cbd)
+
